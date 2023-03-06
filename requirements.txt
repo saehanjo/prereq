@@ -1,0 +1,8 @@
+duckdb==0.7.1
+more-itertools==9.1.0
+numpy==1.24.2
+pandas==1.5.3
+pylev==1.4.0
+sqlglot==11.3.0
+torch==1.13.1
+torchtext==0.14.1
